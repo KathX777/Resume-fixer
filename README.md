@@ -354,6 +354,13 @@ resumes, generated PDFs, or the local `~/.resume-fixer` settings folder.
 - [ ] Saved review history and before/after versions.
 - [ ] Optional agentic fact-checking against user-provided evidence.
 
+## Acknowledgments
+
+The formatting and content rules in this project are abstracted summaries derived from publicly available career resources. No original text or sample resumes were copied. 
+
+*   Inspired by the [MIT Career Handbook](https://capd.mit.edu/resources/career-handbook/) (CAPD, Copyright © MIT).
+*   Formatting rules informed by resume guidelines from [Harvard FAS Office of Career Services](https://careerservices.fas.harvard.edu/resources/resume-templates/).
+
 ## License
 
 No license has been chosen yet. Add a license before distributing or accepting
